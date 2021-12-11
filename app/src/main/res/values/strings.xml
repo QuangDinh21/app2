@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">app2</string>
+    <string name="logo_name"><b>GT - DTP</b></string>
+    <string name="name">Dược Tiên Phong</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_forget">Quên mật khẩu?</string>
+    <string name="ask">Bạn chưa có tài khoản?</string>
+    <string name="edit_txt1">Tên đăng nhập</string>
+    <string name="edit_txt2">Mật khẩu</string>
+    <string name="name_register">Họ và tên</string>
+    <string name="mail">Email</string>
+    <string name="sđt">Số điện thoại</string>
+    <string name="re_pass">Nhập lại mật khẩu</string>
+    <string name="attention">(Sử dụng để đăng nhập ứng dụng)</string>
+</resources>
